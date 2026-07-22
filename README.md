@@ -68,6 +68,16 @@ NLP pipeline combining DistilBERT, CNN, and RNN with TF-IDF features to classify
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshini1928&layout=compact&theme=default&hide_border=true&title_color=333333&text_color=555555&bg_color=ffffff" height="165" alt="Top languages" />
 </div>
 
+### Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshini1928&theme=minimal&hide_border=true&bg_color=ffffff&color=333333&line=6c63ff&point=6c63ff&area=true&area_color=6c63ff" width="100%" alt="Contribution activity graph" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-trophies.vercel.app/?username=Varshini1928&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" width="100%" alt="GitHub trophies" />
+</div>
+
 <br/>
 
 <div align="center">
