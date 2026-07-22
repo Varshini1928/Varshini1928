@@ -59,19 +59,9 @@ NLP pipeline combining DistilBERT, CNN, and RNN with TF-IDF features to classify
 
 ## GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Varshini1928&show_icons=true&theme=default&hide_border=true&hide_title=true&title_color=333333&text_color=555555&icon_color=6c63ff&bg_color=ffffff" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshini1928&theme=default&hide_border=true&background=ffffff&stroke=333333&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" height="165" alt="GitHub streak" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshini1928&layout=compact&theme=default&hide_border=true&title_color=333333&text_color=555555&bg_color=ffffff" height="165" alt="Top languages" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Varshini1928&show_icons=true&theme=default&hide_border=true&hide_title=true&title_color=333333&text_color=555555&icon_color=6c63ff&bg_color=ffffff" height="165" alt="GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshini1928&theme=default&hide_border=true&background=ffffff&stroke=333333&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" height="165" alt="GitHub streak" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshini1928&layout=compact&theme=default&hide_border=true&title_color=333333&text_color=555555&bg_color=ffffff" height="165" alt="Top languages" /> </div> <br/> <div align="center">
 
-<br/>
-
-<div align="center">
-
-**varshini.asr@gmail.com** &nbsp;|&nbsp; **9677360960** &nbsp;|&nbsp; [varshini-s-ai-ml-poraidb.bolt.host](https://varshini-s-ai-ml-poraidb.bolt.host)
+varshini.asr@gmail.com  |  9677360960  |  varshini-s-ai-ml-poraidb.bolt.host
 
 </div>
