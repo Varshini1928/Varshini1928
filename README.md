@@ -61,8 +61,12 @@ Real-time network threat detection system with a live SOC dashboard monitoring 2
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Varshini1928&show_icons=true&theme=default&hide_border=true&title_color=333333&text_color=555555&icon_color=6c63ff" width="48%" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshini1928&theme=default&hide_border=true&background=ffffff&stroke=333333&currStreakLabel=6c63ff" width="48%" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Varshini1928&show_icons=true&theme=default&hide_border=true&hide_title=true&title_color=333333&text_color=555555&icon_color=6c63ff&bg_color=ffffff" height="165" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshini1928&theme=default&hide_border=true&background=ffffff&stroke=333333&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" height="165" alt="GitHub streak" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshini1928&layout=compact&theme=default&hide_border=true&title_color=333333&text_color=555555&bg_color=ffffff" height="165" alt="Top languages" />
 </div>
 
 <br/>
