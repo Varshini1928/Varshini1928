@@ -5,7 +5,7 @@
 
 NLP · Cybersecurity · Multi-Agent Systems
 
-·&nbsp; [Email](mailto:varshini.asr@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Varshini1928) &nbsp;·&nbsp; +91 96773 60960
+[Email](mailto:varshini.asr@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Varshini1928) &nbsp;·&nbsp; +91 96773 60960
 
 </div>
 
@@ -78,6 +78,6 @@ NLP pipeline combining DistilBERT, CNN, and RNN with TF-IDF features to classify
 
 <div align="center">
 
-**varshini.asr@gmail.com** &nbsp;|&nbsp; **9677360960** &nbsp;|&nbsp; [varshini-s-ai-ml-poraidb.bolt.host](https://varshini-s-ai-ml-poraidb.bolt.host)
+**varshini.asr@gmail.com** &nbsp;|&nbsp; **9677360960** &nbsp;
 
 </div>
