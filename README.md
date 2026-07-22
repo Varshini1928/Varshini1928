@@ -31,20 +31,20 @@ AI and Machine Learning engineer with hands-on experience across NLP, cybersecur
 
 ## Projects
 
-**Zero Trust SOC Assistant**
-ML-powered security pipeline with honeytoken deception and automated incident response (account isolation, IP blocking, SOC alerts). Achieved 100% attack detection across AWS credential theft, SSH brute force, DDoS, and CI/CD pipeline abuse test scenarios.
+**ThreatSense-AI** (2026) — [GitHub](https://github.com/Varshini1928)
+Real-time network threat detection system with a live SOC dashboard monitoring 200+ events, ML-based classification across 4 attack types with risk scoring on a 0–1 scale, and automated email/SMS alerting for SOC analysts.
 
-**AI-Powered Loan Assessment System**
-Streamlit-based loan assessment platform with real-time risk scoring and instant approval, evaluating employment type, work experience, and income to predict eligibility.
+**[Multi-Agent Research Assistant](https://github.com/Varshini1928/multi-agent-research-assistant)** (2026)
+Automated research workflows using LangGraph, Endee Vector Database, and Groq, with multi-agent collaboration for literature review, summarization, and knowledge extraction, plus intelligent query routing. Deployed on Streamlit.
 
-**[Multi-Agent Research Assistant](https://github.com/Varshini1928/multi-agent-research-assistant)**
-Automated research workflows using LangGraph, Endee Vector Database, Groq, and Tavily, with multi-agent collaboration for literature review, summarization, and knowledge extraction.
+**AI-Powered Loan Assessment System** (2026)
+Streamlit-based loan assessment platform with real-time risk scoring (0–1 scale) and instant approval, evaluating employment type, work experience, and income for eligibility prediction, with application tracking and analytics dashboards.
 
-**[JobGuard Pro](https://github.com/Varshini1928/JobGuard_pro)**
-NLP pipeline combining DistilBERT, CNN, and RNN with TF-IDF features to classify fraudulent job postings, achieving 92% ensemble accuracy. Deployed via a Flask web interface.
+**Zero Trust SOC Assistant** (2026)
+ML-powered security pipeline with data preprocessing, model training, and inference for real-time risk scoring. Integrated honeytoken deception with automated incident response (account isolation, IP blocking, SOC alerts). Achieved 100% attack detection across AWS credential theft, SSH brute force, DDoS, and CI/CD pipeline abuse test scenarios.
 
-**ThreatSense-AI** — *Kiwistron Technologies Internship*
-Real-time network threat detection system with a live SOC dashboard monitoring 200+ events, ML-based classification across 4 attack types, and automated email/SMS alerting.
+**[JobGuard Pro](https://github.com/Varshini1928/JobGuard_pro)** (2025)
+NLP pipeline combining DistilBERT, CNN, and RNN with TF-IDF features to classify fraudulent job postings, achieving 92% ensemble accuracy. Deployed via a Flask web interface with real-time prediction.
 
 <br/>
 
@@ -53,8 +53,7 @@ Real-time network threat detection system with a live SOC dashboard monitoring 2
 - NPTEL — Introduction to Machine Learning (Elite Certification)
 - NASSCOM — Generative AI Fluency Certification
 - Cisco — Introduction to IoT and Digital Transformation
-- Infosys Springboard — Foundation of Python and Java
-- Infosys Springboard — Foundation of Natural Language Processing
+- Infosys Virtual Internship Program
 
 <br/>
 
