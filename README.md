@@ -5,7 +5,7 @@
 
 NLP · Cybersecurity · Multi-Agent Systems
 
-[Portfolio](https://varshini-s-ai-ml-poraidb.bolt.host) &nbsp;·&nbsp; [Email](mailto:varshini.asr@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Varshini1928) &nbsp;·&nbsp; +91 96773 60960
+·&nbsp; [Email](mailto:varshini.asr@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Varshini1928) &nbsp;·&nbsp; +91 96773 60960
 
 </div>
 
