@@ -1,285 +1,135 @@
 <div align="center">
 
-# Hi, I’m Varshini S 👋
+Hi, I’m Varshini S 👋
 
-### AI/ML Engineer • Python Full-Stack Developer • Agentic AI Enthusiast
+AI/ML Engineer • Python Full-Stack Developer • Agentic AI Enthusiast
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Software+Solutions;Python+%7C+Django+%7C+FastAPI+Developer;Exploring+Agentic+AI%2C+RAG+and+LLMs;Turning+Ideas+into+Real-World+Applications"
-alt="Typing animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Software+Solutions;Python+%7C+Django+%7C+FastAPI+Developer;Exploring+Agentic+AI%2C+RAG+and+LLMs;Turning+Ideas+into+Real-World+Applications" alt="Typing animation"/>
 
 <br/>
 
-<a href="https://github.com/Varshini1928">
-  <img src="https://img.shields.io/badge/GitHub-Varshini1928-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/varshini-s-118682388">
-  <img src="https://img.shields.io/badge/LinkedIn-Varshini_S-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="mailto:varshini.asr@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
+<a href="https://github.com/Varshini1928"><img src="https://img.shields.io/badge/GitHub-Varshini1928-181717?style=for-the-badge&logo=github" alt="GitHub"/></a><a href="https://www.linkedin.com/in/varshini-s-118682388"><img src="https://img.shields.io/badge/LinkedIn-Varshini_S-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a><a href="mailto:varshini.asr@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/></a>
 
 <br/><br/>
 
-<img
-src="https://komarev.com/ghpvc/?username=Varshini1928&label=Profile%20Views&color=58a6ff&style=flat-square"
-alt="Profile views"
-/>
+<img src="https://komarev.com/ghpvc/?username=Varshini1928&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile views"/>
 
 </div>
 
----
+👩‍💻 About Me
 
-## 👩‍💻 About Me
+I am a B.E. Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at VSB Engineering College, Karur.
 
-I am a **B.E. Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning** at **VSB Engineering College**.
+I enjoy developing software that combines artificial intelligence, backend engineering, automation, data analysis, and modern web technologies.
 
-I enjoy developing software that combines **artificial intelligence, backend engineering, automation, data analysis, and modern web technologies**. My GitHub portfolio includes projects in agentic AI, cybersecurity, machine learning, Django full-stack development, computer vision, research automation, and risk analysis.
+🔭 Building practical AI and full-stack applications
 
-* 🔭 Building practical AI and full-stack applications
-* 🧠 Exploring Agentic AI, RAG, LLMs and intelligent automation
-* 🌐 Developing backend systems using Django, Flask and FastAPI
-* 📊 Working with machine learning, NLP and data analytics
-* 🧪 Interested in research-oriented and patent-worthy software projects
-* 💼 Preparing for AI/ML, Python and Full-Stack Developer roles
-* 🎯 Goal: Build reliable technology that solves real-world problems
+🧠 Exploring Agentic AI, RAG, LLMs and intelligent automation
 
----
+🌐 Developing backend systems using Django, Flask and FastAPI
 
-## 🚀 Featured Projects
+📊 Working with machine learning, NLP and data analytics
 
-<table>
-<tr>
-<td width="50%" valign="top">
+🧪 Interested in research-oriented and patent-worthy software projects
 
-### 🌐 [NicheHub](https://github.com/Varshini1928/nichehub)
+💼 Preparing for AI/ML, Python and Full-Stack Developer roles
 
-A Reddit-style community platform for niche interest groups.
+🎯 Goal: Build reliable technology that solves real-world problems
 
-**Key features**
+🚀 Featured Projects
 
-* Custom user authentication and profiles
-* Community membership and moderator roles
-* Text and link posts
-* Nested comments and replies
-* Upvote and downvote system
-* Hot, New and Top sorting
-* REST API endpoints
-* PostgreSQL and SQLite support
-* HTMX-powered updates without full-page reloads
+Project
 
-**Technology:** Django, Django REST Framework, HTMX, Alpine.js, Tailwind CSS, PostgreSQL, Celery and Redis
+Description
 
-</td>
-<td width="50%" valign="top">
+Core Stack
 
-### 🛡️ [JobGuard Pro](https://github.com/Varshini1928/JobGuard_pro)
+🌐 NicheHub
 
-An AI-powered system designed to identify potentially fraudulent job postings using textual and visual information.
+Reddit-style community platform with profiles, communities, voting, nested comments, sorting and REST APIs.
 
-**Key areas**
+Django, DRF, HTMX, Alpine.js, Tailwind, PostgreSQL
 
-* Natural Language Processing
-* Job-description analysis
-* OCR-based image extraction
-* Machine-learning classification
-* Risk prediction
-* User-friendly analysis interface
+🛡️ JobGuard Pro
 
-**Technology:** Python, NLP, OCR, Machine Learning and Streamlit
+AI-powered system for detecting potentially fraudulent job postings from text and images.
 
-</td>
-</tr>
+Python, NLP, OCR, ML, Streamlit
 
-<tr>
-<td width="50%" valign="top">
+🤖 Multi-Agent Research Assistant
 
-### 🤖 [Multi-Agent Research Assistant](https://github.com/Varshini1928/multi-agent-research-assistant)
+Coordinates multiple AI agents for research planning, synthesis and report generation.
 
-A research-support application that coordinates multiple AI agents to collect, organize and summarize information.
+Python, Agentic AI, LLMs
 
-**Key areas**
+🔐 ThreatSense AI
 
-* Multi-agent collaboration
-* Research planning
-* Information synthesis
-* Task decomposition
-* Structured report generation
+AI-based cybersecurity project for threat classification and risk analysis.
 
-**Technology:** Python, Agentic AI, LLMs and research automation
+Python, ML, Cybersecurity
 
-</td>
-<td width="50%" valign="top">
+💳 Agentic AI Loan Risk System
 
-### 🔐 [ThreatSense AI](https://github.com/Varshini1928/ThreatSense-AI)
+Agentic workflow for digital loan onboarding and intelligent risk assessment.
 
-An artificial-intelligence-based cybersecurity project focused on detecting and assessing digital threats.
+Agentic AI, Python, Risk Analytics
 
-**Key areas**
+📈 Real-Time Risk Scoring
 
-* Threat classification
-* Suspicious-pattern detection
-* Security-risk analysis
-* AI-assisted decision support
+Predictive scoring system with risk categorization and an interactive dashboard.
 
-**Technology:** Python, Machine Learning, Cybersecurity and AI
+Python, ML, Data Analytics, Streamlit
 
-</td>
-</tr>
+🚗 Car Price Prediction
 
-<tr>
-<td width="50%" valign="top">
+Regression-based vehicle price prediction using historical and technical attributes.
 
-### 💳 [Agentic AI Loan Risk System](https://github.com/Varshini1928/Agentic-AI-Video-Call-Based-Digital-Loan-Onboarding-Risk-Assessment-System)
+Python, Pandas, NumPy, scikit-learn
 
-An agentic AI system for digital loan onboarding and risk assessment through video-call-based interactions.
+👁️ Face Recognition
 
-**Key areas**
+Computer-vision application for face detection and recognition.
 
-* Automated customer onboarding
-* Risk assessment
-* Identity and response analysis
-* Multi-step agent workflow
-* Financial decision support
+Python, OpenCV
 
-**Technology:** Agentic AI, Python, Risk Analytics and Intelligent Automation
+📚 BookNest
 
-</td>
-<td width="50%" valign="top">
+Django digital book catalogue with forms, image uploads and admin management.
 
-### 📈 [Real-Time Risk Scoring](https://github.com/Varshini1928/real-time-risk-scoring)
+Django, HTML, CSS, SQLite
 
-A software project that evaluates incoming information and generates risk scores for decision support.
+🧑‍🏫 AI Mentor
 
-**Key areas**
+AI-assisted learning project for explanations and guided support.
 
-* Data preprocessing
-* Predictive scoring
-* Risk categorization
-* Interactive dashboard
-* Real-time analysis
+Python, AI, LLM Concepts
 
-**Technology:** Python, Machine Learning, Data Analytics and Streamlit
+🛠️ Technical Skills
 
-</td>
-</tr>
+Programming Languages
 
-<tr>
-<td width="50%" valign="top">
+<p><img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,javascript,typescript,r" alt="Programming languages"/></p>
 
-### 🚗 [Car Price Prediction](https://github.com/Varshini1928/Car-price-prediction)
+AI, Machine Learning and Data
 
-A machine-learning project that predicts vehicle prices using historical and technical attributes.
+<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI tools"/></p>
 
-**Key areas**
+NumPy • Pandas • Matplotlib • scikit-learn • TensorFlow • Keras • OpenCV • NLP • OCR • CNN • RNN • LSTM • XGBoost
 
-* Data cleaning
-* Feature engineering
-* Regression modelling
-* Model evaluation
-* Price prediction
+Backend and Full-Stack Development
 
-**Technology:** Python, Pandas, NumPy, scikit-learn and Machine Learning
+<p><img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nodejs,express,html,css,bootstrap,tailwind" alt="Full-stack technologies"/></p>
 
-</td>
-<td width="50%" valign="top">
+Databases
 
-### 👁️ [Face Recognition](https://github.com/Varshini1928/Face_Recognition)
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" alt="Databases"/></p>
 
-A computer-vision project for recognizing and matching human faces.
+DevOps, Cloud and Development Tools
 
-**Key areas**
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,aws,linux,vscode,postman" alt="Development tools"/></p>
 
-* Image preprocessing
-* Face detection
-* Feature extraction
-* Identity recognition
+🧠 Areas of Interest
 
-**Technology:** Python, OpenCV and Computer Vision
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📚 [BookNest](https://github.com/Varshini1928/booknest)
-
-A Django-based digital book catalogue for adding, browsing and managing books.
-
-**Key areas**
-
-* Book management
-* Image uploads
-* Django forms
-* SQLite database
-* Django administration
-
-**Technology:** Python, Django, HTML, CSS and SQLite
-
-</td>
-<td width="50%" valign="top">
-
-### 🧑‍🏫 [AI Mentor](https://github.com/Varshini1928/AI-mentor)
-
-An AI-assisted learning project designed to support users through explanations and guided learning.
-
-**Key areas**
-
-* Personalized assistance
-* Knowledge-based interaction
-* AI-generated explanations
-* Learning support
-
-**Technology:** Python, Artificial Intelligence and LLM concepts
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,javascript,typescript,r" alt="Programming languages"/>
-</p>
-
-### AI, Machine Learning and Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI tools"/>
-</p>
-
-`NumPy` • `Pandas` • `Matplotlib` • `scikit-learn` • `TensorFlow` • `Keras` • `OpenCV` • `NLP` • `OCR` • `CNN` • `RNN` • `LSTM` • `XGBoost`
-
-### Backend and Full-Stack Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nodejs,express,html,css,bootstrap,tailwind" alt="Full-stack technologies"/>
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" alt="Databases"/>
-</p>
-
-### DevOps, Cloud and Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,aws,linux,vscode,postman" alt="Development tools"/>
-</p>
-
----
-
-## 🧠 Areas of Interest
-
-```text
 Artificial Intelligence     Agentic AI
 Machine Learning            Large Language Models
 Retrieval-Augmented Gen.    Natural Language Processing
@@ -287,186 +137,154 @@ Computer Vision             Full-Stack Development
 Backend Engineering         Data Analytics
 Cybersecurity               Intelligent Automation
 Software Architecture       Applied AI Research
-```
 
----
+📊 GitHub Analytics
 
-## 📊 GitHub Analytics
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Varshini1928&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub statistics"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Varshini1928&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak"/>
+</div>
+
+💻 Most Used Languages
+
+<div align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshini1928&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Most used languages"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varshini1928&theme=github_dark" alt="Most committed languages"/>
+</div>
+
+Language cards represent code detected in public repositories and do not represent complete professional skill levels.
+
+📈 Contribution Activity
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Varshini1928&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+</div>
+
+🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varshini1928/Varshini1928/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varshini1928/Varshini1928/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Varshini1928/Varshini1928/output/github-contribution-grid-snake.svg"/>
+</picture>
+</div>
+
+🎮 Contribution Arcade
 
 <div align="center">
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=Varshini1928&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400"
-alt="GitHub statistics"
-/>
+🟡 Pac-Man
 
-<img
-width="49%"
-src="https://streak-stats.demolab.com?user=Varshini1928&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"
-alt="GitHub contribution streak"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varshini1928/Varshini1928/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varshini1928/Varshini1928/output/pacman-contribution-graph.svg"/>
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Varshini1928/Varshini1928/output/pacman-contribution-graph.svg"/>
+</picture>
+
+💣 Bomberman
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varshini1928/Varshini1928/output/bomberman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varshini1928/Varshini1928/output/bomberman-contribution-graph.svg"/>
+  <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/Varshini1928/Varshini1928/output/bomberman-contribution-graph.svg"/>
+</picture>
 
 </div>
 
----
+These animations are generated automatically from my GitHub contribution activity.
 
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img
-width="48%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshini1928&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400"
-alt="Most used languages"
-/>
-
-<img
-width="48%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varshini1928&theme=github_dark"
-alt="Most committed languages"
-/>
-
-</div>
-
-> The language cards represent code detected in public GitHub repositories. They do not represent complete professional skill levels.
-
----
-
-## 📈 Contribution Activity
+📌 GitHub Profile Summary
 
 <div align="center">
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Varshini1928&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-alt="GitHub contribution activity graph"
-/>
-
-</div>
-
----
-
-## 📌 GitHub Profile Summary
-
-<div align="center">
-
-<img
-width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varshini1928&theme=github_dark"
-alt="GitHub profile details"
-/>
-
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varshini1928&theme=github_dark" alt="GitHub profile details"/>
 <br/>
-
-<img
-width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varshini1928&theme=github_dark"
-alt="Repositories per language"
-/>
-
-<img
-width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Varshini1928&theme=github_dark&utcOffset=5.5"
-alt="Productive coding time"
-/>
-
-<img
-width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Varshini1928&theme=github_dark"
-alt="GitHub contribution statistics"
-/>
-
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varshini1928&theme=github_dark" alt="Repositories per language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Varshini1928&theme=github_dark&utcOffset=5.5" alt="Productive coding time"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Varshini1928&theme=github_dark" alt="GitHub contribution statistics"/>
 </div>
 
----
+📚 Education
 
-## 📚 Education
+Bachelor of Engineering — Computer Science and EngineeringSpecialization: Artificial Intelligence and Machine Learning
 
-**Bachelor of Engineering — Computer Science and Engineering
-Specialization: Artificial Intelligence and Machine Learning**
+VSB Engineering College, KarurExpected graduation: 2027
 
-VSB Engineering College, Karur
-Expected graduation: 2027
+🎓 Certifications and Learning
 
----
+NPTEL Elite — Introduction to Machine Learning
 
-## 🎓 Certifications and Learning
+Python Full-Stack Development
 
-* NPTEL Elite — Introduction to Machine Learning
-* Python Full-Stack Development
-* Artificial Intelligence and Machine Learning
-* Natural Language Processing
-* AWS and cloud fundamentals
-* Docker and Kubernetes
-* CI/CD pipelines
-* Microsoft Fabric and data analytics
-* Pega development
-* Git and GitHub
+Artificial Intelligence and Machine Learning
 
----
+Natural Language Processing
 
-## 💼 Experience
+AWS and cloud fundamentals
 
-### Machine Learning Intern — Kiwistron
+Docker and Kubernetes
+
+CI/CD pipelines
+
+Microsoft Fabric and data analytics
+
+Pega development
+
+Git and GitHub
+
+💼 Experience
+
+Machine Learning Intern — Kiwistron
 
 Worked on a real-time car-price prediction system using machine-learning algorithms, data preprocessing, feature engineering, model comparison and deployment concepts.
 
-### Python Full-Stack Virtual Intern — Infosys
+Python Full-Stack Virtual Intern — Infosys
 
 Worked on Python full-stack development concepts and developed projects involving Django, frontend development, databases and applied artificial intelligence.
 
----
+🎯 Current Focus
 
-## 🎯 Current Focus
+Building production-oriented Django projects
 
-* Building production-oriented Django projects
-* Creating agentic AI workflows
-* Learning advanced RAG architectures
-* Improving backend system design
-* Strengthening DSA and placement coding
-* Deploying projects using cloud platforms
-* Contributing consistently to GitHub
+Creating agentic AI workflows
 
----
+Learning advanced RAG architectures
 
-## 🤝 Open to Opportunities
+Improving backend system design
 
-I am interested in:
+Strengthening DSA and placement coding
 
-* AI/ML Engineering internships
-* Python Developer opportunities
-* Full-Stack Development roles
-* Backend Engineering roles
-* Data and Analytics projects
-* Applied AI research collaborations
-* Open-source contributions
+Deploying projects using cloud platforms
 
----
+Contributing consistently to GitHub
 
-## 🌐 Connect With Me
+🤝 Open to Opportunities
+
+AI/ML Engineering internships
+
+Python Developer opportunities
+
+Full-Stack Development roles
+
+Backend Engineering roles
+
+Data and Analytics projects
+
+Applied AI research collaborations
+
+Open-source contributions
+
+🌐 Connect With Me
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/varshini-s-118682388">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:varshini.asr@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send_an_Email-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
-
-<a href="https://github.com/Varshini1928?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-</a>
-
+<a href="https://www.linkedin.com/in/varshini-s-118682388"><img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:varshini.asr@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send_an_Email-EA4335?style=for-the-badge&logo=gmail" alt="Email"/></a>
+<a href="https://github.com/Varshini1928?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github" alt="Repositories"/></a>
 </div>
 
----
-
 <div align="center">
 
-### “Learn deeply. Build purposefully. Improve continuously.”
+“Learn deeply. Build purposefully. Improve continuously.”
 
 ⭐ Explore my repositories and feel free to connect with me.
 
