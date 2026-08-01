@@ -1,407 +1,504 @@
-Library
-/
-GITHUB_PROFILE_README.md
-
-
 <div align="center">
 
-Hi, I'm Varshini S 👋
-AI/ML Enthusiast • Python Full-Stack Developer • Final-Year Engineering Student
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=B.E.+CSE+(Artificial+Intelligence+%26+Machine+Learning);Building+AI-Powered+Software+Projects;Python+Full-Stack+%7C+Machine+Learning+%7C+Computer+Vision;Interested+in+AI%2C+RAG%2C+Agentic+Systems+and+Software+Engineering" alt="Typing SVG" />
+# Hi, I’m Varshini S 👋
+
+### AI/ML Engineer • Python Full-Stack Developer • Agentic AI Enthusiast
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Software+Solutions;Python+%7C+Django+%7C+FastAPI+Developer;Exploring+Agentic+AI%2C+RAG+and+LLMs;Turning+Ideas+into+Real-World+Applications"
+alt="Typing animation"
+/>
 
 <br/>
 
-<a href="https://github.com/Varshini1928"> <img src="https://img.shields.io/badge/GitHub-Varshini1928-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/varshini-s-118682388"> <img src="https://img.shields.io/badge/LinkedIn-Varshini%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:varshini.asr@gmail.com"> <img src="https://img.shields.io/badge/Email-varshini.asr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="https://github.com/Varshini1928">
+  <img src="https://img.shields.io/badge/GitHub-Varshini1928-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/varshini-s-118682388">
+  <img src="https://img.shields.io/badge/LinkedIn-Varshini_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:varshini.asr@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1KeosS9BI1wHN2adGJoKYSu0YWQOekUeS/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-View_PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+</a>
+
+<br/><br/>
+
+<img
+src="https://komarev.com/ghpvc/?username=Varshini1928&label=Profile%20Views&color=58A6FF&style=flat-square"
+alt="Profile views"
+/>
 
 </div>
 
-About Me
-I am a B.E. Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at V.S.B. Engineering College, Karur.
+---
 
-I enjoy building practical software projects that combine:
+## 👩‍💻 About Me
 
-Artificial Intelligence
+I am a **B.E. Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning** at **VSB Engineering College, Karur**.
 
-Machine Learning
+I enjoy building software that combines **artificial intelligence, machine learning, backend engineering, automation, data analytics and modern web development**.
 
-Computer Vision
+* 🔭 Building AI-powered and full-stack software projects
+* 🧠 Exploring Agentic AI, RAG, LLMs and intelligent automation
+* 🌐 Developing applications using Django, Flask and FastAPI
+* 📊 Working with machine learning, NLP, OCR and computer vision
+* 🧪 Interested in research-oriented and patent-worthy software
+* 💼 Preparing for AI/ML, Python and Full-Stack Developer roles
+* 🎓 Expected graduation: **2027**
+* 📍 Based in **Karur, Tamil Nadu, India**
 
-Natural Language Processing
+---
 
-Full-Stack Web Development
+## 🚀 Featured Projects
 
-REST API Development
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Cloud Deployment
+### 🌐 [NicheHub](https://github.com/Varshini1928/nichehub)
 
-DevOps and Automation
+A Reddit-style community platform designed for niche interest groups.
 
-My current focus is on creating advanced, research-oriented projects involving RAG, LLMs, multimodal AI, agentic systems, recommendation engines, and intelligent software tools.
+**Features**
 
-Current Focus
-Building production-style AI and full-stack applications
+* Custom user authentication and profiles
+* Community creation and membership
+* Moderator management
+* Text and link posts
+* Nested comments and replies
+* Upvote and downvote system
+* Hot, New and Top feed sorting
+* Search and pagination
+* Read-only REST APIs
 
-Learning advanced RAG and multi-agent AI systems
+**Technology**
 
-Improving data structures and algorithms
+`Django` `DRF` `HTMX` `Alpine.js` `Tailwind CSS` `PostgreSQL` `Redis` `Celery`
 
-Preparing for software, AI/ML, and full-stack roles
+</td>
+<td width="50%" valign="top">
 
-Exploring patent-oriented software project ideas
+### 🛡️ [JobGuard Pro](https://github.com/Varshini1928/JobGuard_pro)
 
-Strengthening deployment, Docker, CI/CD, and cloud skills
+An AI-powered system for identifying potentially fraudulent job postings using text and image information.
 
-Featured Projects
-VirtuFit – AI-Powered AR Shopping Assistant
-An intelligent fitness e-commerce platform that combines:
+**Features**
 
-Virtual try-on
+* NLP-based job-description analysis
+* OCR-based text extraction
+* Machine-learning classification
+* Job-risk prediction
+* Interactive analysis interface
 
-MediaPipe pose detection
+**Technology**
 
-Approximate body-profile estimation
+`Python` `NLP` `OCR` `Machine Learning` `Streamlit`
 
-AI-based size recommendation
+</td>
+</tr>
 
-Fit Confidence Score
+<tr>
+<td width="50%" valign="top">
 
-Personalized product recommendation
+### 🤖 [Multi-Agent Research Assistant](https://github.com/Varshini1928/multi-agent-research-assistant)
 
-Product comparison
+A research-support platform that coordinates multiple AI agents to collect, organize and summarize information.
 
-Cart and checkout
+**Features**
 
-Admin analytics
+* Multi-agent collaboration
+* Research planning
+* Task decomposition
+* Information synthesis
+* Structured report generation
 
-Technologies: React, TypeScript, FastAPI, PostgreSQL, OpenCV, MediaPipe, scikit-learn, Docker
+**Technology**
 
-JobGuard Pro – Fake Job Post Detection System
-A hybrid AI system designed to identify suspicious and fraudulent job postings using both text and image inputs.
+`Python` `Agentic AI` `LLMs` `Research Automation`
 
-Key features:
+</td>
+<td width="50%" valign="top">
 
-NLP-based job-description analysis
+### 🔐 [ThreatSense AI](https://github.com/Varshini1928/ThreatSense-AI)
 
-OCR for extracting text from job posters
+An AI-assisted cybersecurity project focused on threat identification and digital-risk analysis.
 
-DistilBERT or RoBERTa text classification
+**Features**
 
-XGBoost-based classification
+* Threat classification
+* Suspicious-pattern detection
+* Security-risk analysis
+* AI-assisted decision support
 
-Image analysis
+**Technology**
 
-Explainable prediction output
+`Python` `Machine Learning` `Cybersecurity` `Artificial Intelligence`
 
-Streamlit or FastAPI deployment
+</td>
+</tr>
 
-Technologies: Python, NLP, OCR, Transformers, XGBoost, FastAPI, Streamlit
+<tr>
+<td width="50%" valign="top">
 
-NeuroSparsh – Intelligent Myoelectric Prosthetic Hand
-A research-oriented assistive technology concept for a low-cost adaptive myoelectric prosthetic hand.
+### 💳 [Agentic AI Loan Risk System](https://github.com/Varshini1928/Agentic-AI-Video-Call-Based-Digital-Loan-Onboarding-Risk-Assessment-System)
 
-Key features:
+An agentic AI system for digital loan onboarding and automated risk assessment.
 
-Surface-EMG gesture recognition
+**Features**
 
-Five functional grip patterns
+* Digital customer onboarding
+* Multi-step AI-agent workflow
+* Identity and response analysis
+* Risk assessment
+* Financial decision support
 
-Adaptive EMG calibration
+**Technology**
 
-Muscle-fatigue detection
+`Agentic AI` `Python` `Risk Analytics` `Automation`
 
-Electrode-shift detection
+</td>
+<td width="50%" valign="top">
 
-Grip-force regulation
+### 📈 [Real-Time Risk Scoring](https://github.com/Varshini1928/real-time-risk-scoring)
 
-Slip prevention
+A predictive system that evaluates incoming information and generates interpretable risk scores.
 
-Haptic feedback
+**Features**
 
-Rehabilitation progress tracking
+* Data preprocessing
+* Predictive scoring
+* Risk categorization
+* Interactive dashboard
+* Real-time analysis
 
-Technologies: Python, Machine Learning, ESP32, Embedded Systems, Signal Processing, Computer Vision
+**Technology**
 
-MedRetriever 360 – Offline Medical Knowledge Assistant
-A completely offline academic medical-knowledge assistant for healthcare workers in low-connectivity environments.
+`Python` `Machine Learning` `Data Analytics` `Streamlit`
 
-Key features:
+</td>
+</tr>
 
-Local RAG pipeline
+<tr>
+<td width="50%" valign="top">
 
-Offline LLM using Ollama
+### 📚 [BookNest](https://github.com/Varshini1928/booknest)
 
-ChromaDB vector search
+A Django-based digital book management application.
 
-Voice input and output
+**Features**
 
-Multilingual support
+* Add, update and delete books
+* Book-cover uploads
+* Django forms and validation
+* Django administration
+* Responsive interface
 
-PDF knowledge retrieval
+**Technology**
 
-Medical image-analysis module
+`Python` `Django` `HTML` `CSS` `SQLite`
 
-Report export
+</td>
+<td width="50%" valign="top">
 
-Feedback-based ranking
+### 🚗 [Car Price Prediction](https://github.com/Varshini1928/Car-price-prediction)
 
-Technologies: Python, Ollama, ChromaDB, Sentence Transformers, Gradio, RAG
+A machine-learning project for predicting vehicle prices using historical and technical features.
 
-AutoDev AI – AI Software Engineering Agent
-An AI-powered software engineering assistant capable of understanding and analyzing software repositories.
+**Features**
 
-Key features:
+* Data preprocessing
+* Feature engineering
+* Regression models
+* Model comparison
+* Price prediction
 
-Repository understanding
+**Technology**
 
-Architecture explanation
+`Python` `Pandas` `NumPy` `scikit-learn` `Machine Learning`
 
-Bug detection
+</td>
+</tr>
 
-Test generation
+<tr>
+<td width="50%" valign="top">
 
-Code review
+### 👁️ [Face Recognition](https://github.com/Varshini1928/Face_Recognition)
 
-Pull-request analysis
+A computer-vision project for detecting, extracting and recognizing human faces.
 
-Improvement suggestions
+**Technology**
 
-Developer documentation
+`Python` `OpenCV` `Computer Vision`
 
-Technologies: Python, LLMs, RAG, Agentic AI, GitHub APIs, Static Analysis
+</td>
+<td width="50%" valign="top">
 
-Real-Time Car Price Prediction
-A machine learning application developed during my internship to estimate vehicle prices.
+### 🧑‍🏫 [AI Mentor](https://github.com/Varshini1928/AI-mentor)
 
-Key features:
+An AI-assisted learning project designed to provide explanations and guided support.
 
-Data preprocessing
+**Technology**
 
-Encoding and scaling
+`Python` `Artificial Intelligence` `LLM Concepts`
 
-Multiple model comparison
+</td>
+</tr>
+</table>
 
-Hyperparameter tuning
+---
 
-Prediction API
+## 🛠️ Technical Skills
 
-Flask-based deployment
+### Programming Languages
 
-Technologies: Python, Pandas, NumPy, scikit-learn, TensorFlow, Flask, MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,javascript,typescript,r" alt="Programming languages"/>
+</p>
 
-Technical Skills
-Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,js,ts,r,go" /> </p>
+### AI, Machine Learning and Data Science
 
-Frontend Development
-<p> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI and machine learning"/>
+</p>
 
-Backend Development
-<p> <img src="https://skillicons.dev/icons?i=flask,django,fastapi,nodejs,express" /> </p>
+`NumPy` • `Pandas` • `Matplotlib` • `scikit-learn` • `TensorFlow` • `Keras` • `OpenCV` • `NLP` • `OCR` • `CNN` • `RNN` • `LSTM` • `XGBoost` • `RAG` • `LLMs`
 
-Databases
-<p> <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase" /> </p>
+### Backend and Full-Stack Development
 
-AI, ML and Data Science
-NumPy
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nodejs,express,html,css,bootstrap,tailwind" alt="Full-stack technologies"/>
+</p>
 
-Pandas
+### Databases
 
-Matplotlib
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" alt="Databases"/>
+</p>
 
-scikit-learn
+### Cloud, DevOps and Development Tools
 
-TensorFlow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,aws,linux,vscode,postman" alt="Cloud and DevOps tools"/>
+</p>
 
-Keras
+---
 
-OpenCV
+## 🧠 Areas of Interest
 
-MediaPipe
+<table>
+<tr>
+<td>
 
-NLP
+* Artificial Intelligence
+* Machine Learning
+* Agentic AI
+* Large Language Models
+* Retrieval-Augmented Generation
+* Natural Language Processing
 
-CNN
+</td>
+<td>
 
-RNN
+* Computer Vision
+* Backend Engineering
+* Full-Stack Development
+* Cybersecurity
+* Intelligent Automation
+* Applied AI Research
 
-LSTM
+</td>
+</tr>
+</table>
 
-Transformers
+---
 
-RAG
+## 📊 GitHub Analytics
 
-Recommendation Systems
-
-Computer Vision
-
-DevOps and Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,postman,vscode,linux,aws" /> </p>
-
-Internship Experience
-Machine Learning Intern – Kiwistron, Trichy
-December 2024 – January 2025
-
-Worked on a Real-Time Car Price Detection System.
-
-Responsibilities included:
-
-Data collection and preprocessing
-
-Feature engineering
-
-Model comparison
-
-Hyperparameter tuning
-
-Prediction evaluation
-
-Flask deployment
-
-MySQL integration
-
-Python Full-Stack Virtual Intern – Infosys
-Worked on full-stack and AI-oriented application development using Python technologies.
-
-Key areas:
-
-Python backend development
-
-REST APIs
-
-Frontend integration
-
-Database operations
-
-AI project development
-
-Application deployment
-
-Certifications
-NPTEL Elite – Introduction to Machine Learning
-
-Python Full-Stack Development
-
-Infosys Virtual Internship
-
-Swayam Plus – Artificial Intelligence and Machine Learning
-
-NLP Certification by Infosys
-
-Pega Certified Developer
-
-AWS Machine Learning learning track
-
-Docker and Kubernetes
-
-CI/CD Pipelines
-
-English Typing Certification
-
-Education
-B.E. Computer Science and Engineering
-Specialization: Artificial Intelligence and Machine Learning
-
-V.S.B. Engineering College, Karur
-Anna University
-2023 – 2027
-
-Current CGPA: 8.17/10
-
-GitHub Statistics
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Varshini1928&show_icons=true&theme=tokyonight&hide_border=true" />
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=Varshini1928&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github"
+alt="Varshini's GitHub statistics"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshini1928&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+width="49%"
+src="https://streak-stats.demolab.com?user=Varshini1928&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"
+alt="Varshini's GitHub streak"
+/>
 
 </div>
 
+---
+
+## 💻 Most Used Languages
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Varshini1928&theme=tokyonight&hide_border=true" />
+<img
+width="48%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshini1928&layout=compact&theme=github_dark&hide_border=true&langs_count=10"
+alt="Most used languages"
+/>
+
+<img
+width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varshini1928&theme=github_dark"
+alt="Most committed languages"
+/>
 
 </div>
 
-GitHub Activity Graph
+> These cards analyse code available in public repositories. They do not represent complete professional skill levels.
+
+---
+
+## 📈 Contribution Activity
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshini1928&theme=tokyo-night&hide_border=true" />
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Varshini1928&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+alt="GitHub contribution activity graph"
+/>
 
 </div>
 
-LeetCode and Problem Solving
-Solved approximately 250 coding problems
+---
 
-Practising arrays, strings, linked lists, searching, sorting, recursion, and basic dynamic programming
+## 📌 GitHub Profile Summary
 
-Preparing for product-based and service-based company placement rounds
-
-<!-- Replace the username below when your LeetCode profile is available. [![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo)](https://leetcode.com/YOUR_LEETCODE_USERNAME) -->
-
-Areas of Interest
-Artificial Intelligence
-
-Machine Learning
-
-Generative AI
-
-Retrieval-Augmented Generation
-
-Agentic AI
-
-Multimodal AI
-
-Computer Vision
-
-Natural Language Processing
-
-Full-Stack Development
-
-Software Engineering
-
-Data Engineering
-
-Cloud Computing
-
-DevOps
-
-Research-Oriented Software Projects
-
-Career Goals
-I am interested in opportunities such as:
-
-AI/ML Engineer
-
-Python Developer
-
-Full-Stack Developer
-
-Software Engineer
-
-Data Engineer
-
-Backend Developer
-
-Research Intern
-
-Generative AI Engineer
-
-I am open to internships, research collaborations, open-source contributions, and entry-level software opportunities.
-
-Connect With Me
 <div align="center">
 
-<a href="https://github.com/Varshini1928"> <img src="https://img.shields.io/badge/GitHub-Varshini1928-181717?style=for-the-badge&logo=github" /> </a>
+<img
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varshini1928&theme=github_dark"
+alt="GitHub profile details"
+/>
 
-<a href="https://www.linkedin.com/in/varshini-s-118682388"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<br/>
 
-<a href="mailto:varshini.asr@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<img
+width="32%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varshini1928&theme=github_dark"
+alt="Repositories per language"
+/>
+
+<img
+width="32%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Varshini1928&theme=github_dark&utcOffset=5.5"
+alt="Productive coding time"
+/>
+
+<img
+width="32%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Varshini1928&theme=github_dark"
+alt="GitHub statistics summary"
+/>
 
 </div>
 
+---
+
+## 💼 Experience
+
+### Python Full-Stack Virtual Intern — Infosys
+
+Worked with Python full-stack development, Django, databases, frontend technologies and applied AI project concepts.
+
+### Machine Learning Intern — Kiwistron
+
+Developed a car-price prediction system involving data preprocessing, feature engineering, model comparison, hyperparameter tuning and deployment concepts.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering — Computer Science and Engineering**
+**Specialization: Artificial Intelligence and Machine Learning**
+
+VSB Engineering College, Karur
+Expected graduation: **2027**
+
+---
+
+## 🏅 Certifications and Learning
+
+* NPTEL Elite — Introduction to Machine Learning
+* Python Full-Stack Development
+* Artificial Intelligence and Machine Learning
+* Natural Language Processing
+* Docker and Kubernetes
+* CI/CD Pipelines
+* AWS Machine Learning fundamentals
+* Microsoft Fabric and Data Analytics
+* Pega Certified Developer
+* Git and GitHub
+
+---
+
+## 🎯 Current Focus
+
+* Building production-oriented Django applications
+* Creating agentic AI workflows
+* Learning advanced RAG architectures
+* Improving backend and system-design skills
+* Strengthening DSA and placement coding
+* Deploying applications using Vercel and Render
+* Developing research-oriented AI projects
+* Contributing consistently to GitHub
+
+---
+
+## 🤝 Open to Opportunities
+
+I am interested in:
+
+* AI/ML Engineering internships
+* Python Developer roles
+* Full-Stack Developer opportunities
+* Backend Engineering roles
+* Data Analytics projects
+* Applied AI research collaborations
+* Open-source contributions
+
+---
+
+## 🌐 Connect With Me
+
 <div align="center">
 
-Thanks for visiting my profile
+<a href="https://www.linkedin.com/in/varshini-s-118682388">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:varshini.asr@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/Varshini1928?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1KeosS9BI1wHN2adGJoKYSu0YWQOekUeS/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-Varshini_S_Resume.pdf-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### “Learn deeply. Build purposefully. Improve continuously.”
 
 ⭐ Explore my repositories and feel free to connect with me.
 
