@@ -4,11 +4,29 @@
 </p>
 
 <h3 align="center">
-AI & ML Engineer • NLP Developer • Cybersecurity Enthusiast • Research Enthusiast
+AI & ML Engineer • NLP Developer • SAP Certified Fiori Developer • Cybersecurity Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Building+NLP+and+Multi-Agent+Systems;Cybersecurity+%7C+Zero-Trust+Access;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;SAP+Certified+-+SAP+Fiori+Application+Developer;Building+NLP+and+Multi-Agent+Systems;Cybersecurity+%7C+Zero-Trust+Access"/>
+</p>
+
+---
+
+# 🏅 Featured Certification
+
+<p align="center">
+  <a href="https://www.credly.com/badges/bce33d5c-a2d2-40c1-a3fa-2620b96120b0/public_url">
+    <img src="https://img.shields.io/badge/SAP%20Certified-SAP%20Fiori%20Application%20Developer-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="45"/>
+  </a>
+</p>
+
+<h2 align="center">
+  <a href="https://www.credly.com/badges/bce33d5c-a2d2-40c1-a3fa-2620b96120b0/public_url">SAP Certified - SAP Fiori Application Developer</a>
+</h2>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/bce33d5c-a2d2-40c1-a3fa-2620b96120b0/public_url">✅ View &amp; verify my badge on Credly</a>
 </p>
 
 ---
@@ -25,6 +43,7 @@ AI & ML Engineer • NLP Developer • Cybersecurity Enthusiast • Research Ent
 - Multi-Agent Systems
 - Large Language Models
 - Retrieval-Augmented Generation (RAG)
+- SAP Fiori Application Development
 - Cybersecurity & Threat Detection
 - Zero-Trust Infrastructure
 
@@ -49,7 +68,7 @@ AI & ML Engineer • NLP Developer • Cybersecurity Enthusiast • Research Ent
 <p align="center">
 <a href="mailto:varshini.asr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://github.com/Varshini1928"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://www.credly.com/badges/bce33d5c-a2d2-40c1-a3fa-2620b96120b0/public_url"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/bce33d5c-a2d2-40c1-a3fa-2620b96120b0/public_url"><img src="https://img.shields.io/badge/SAP%20Certified-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /></a>
 </p>
 
 ---
@@ -61,6 +80,7 @@ AI & ML Engineer • NLP Developer • Cybersecurity Enthusiast • Research Ent
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/DistilBERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
@@ -70,6 +90,8 @@ AI & ML Engineer • NLP Developer • Cybersecurity Enthusiast • Research Ent
 **Machine Learning:** TensorFlow • Scikit-learn • CNN • RNN • DistilBERT
 
 **NLP:** TF-IDF • Text Classification • NLP Pipelines • RAG
+
+**Enterprise Development:** SAP Fiori
 
 **Cybersecurity:** Threat Detection • Risk Scoring • SOC Dashboards
 
@@ -122,7 +144,7 @@ AI & ML Engineer • NLP Developer • Cybersecurity Enthusiast • Research Ent
 
 # 📜 Certifications
 
-🏅 [Credly Badge](https://www.credly.com/badges/bce33d5c-a2d2-40c1-a3fa-2620b96120b0/public_url)
+🏅 [SAP Certified - SAP Fiori Application Developer](https://www.credly.com/badges/bce33d5c-a2d2-40c1-a3fa-2620b96120b0/public_url)
 
 🏅 NPTEL: Introduction to Machine Learning, Elite Certification
 
