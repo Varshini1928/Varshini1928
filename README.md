@@ -1,71 +1,55 @@
-<!-- Animated Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Varshini%20S&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%">
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Varshini S
-</h1>
-
 <h3 align="center">
-AI Engineer • Full Stack Developer • Python Developer • Research Enthusiast
+AI & ML Engineer • NLP Developer • Cybersecurity Enthusiast • Research Enthusiast
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Python+Full+Stack+Developer;Building+Real-World+AI+Applications;Open+Source+Contributor;Always+Learning+New+Technologies"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Building+NLP+and+Multi-Agent+Systems;Cybersecurity+%7C+Zero-Trust+Access;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 B.E Computer Science & Engineering (Artificial Intelligence & Machine Learning)
+🎓 B.E. Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 
-🏫 VSB Engineering College
+🏫 VSB Engineering College, Karur | 2023 – 2027 | CGPA: 8.17 / 10
 
 💡 Passionate about
 
-- Artificial Intelligence
-- Agentic AI
+- Natural Language Processing
+- Multi-Agent Systems
 - Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Cybersecurity & Threat Detection
+- Zero-Trust Infrastructure
+
+🚀 Projects I've Built
+
+- 🕵️ JobGuard Pro
+- 🤖 Multi-Agent Research Assistant
+- 🧑‍🏫 AI Dev Mentor
+- 🛡 ThreatSense-AI
+- 🔐 SecureAccess
+
+🌱 Currently Exploring
+
+- LangGraph & Agentic AI
 - RAG Systems
-- Full Stack Development
-- System Design
-- Backend Engineering
-
-🚀 Currently Building
-
-- 📚 BookNest
-- 🌐 NicheHub
-- 🤖 AutoDev AI
-- 🧠 NeuroSparsh
-
-🌱 Currently Learning
-
-- Django
-- FastAPI
-- LangGraph
-- Kubernetes
-- Docker
-- Agentic AI
+- Zero-Trust Security
 
 ---
 
 # 🌐 Connect with Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-
-<a href="mailto:YOURMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-
-<a href="https://github.com/Varshini1928">
-<img src="https://skillicons.dev/icons?i=github" />
-
+<a href="mailto:varshini.asr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://github.com/Varshini1928"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.credly.com/badges/bce33d5c-a2d2-40c1-a3fa-2620b96120b0/public_url"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
 </p>
 
 ---
@@ -73,59 +57,29 @@ AI Engineer • Full Stack Developer • Python Developer • Research Enthusias
 # 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=django"/>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=typescript"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=kubernetes"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,js,tensorflow,sklearn,flask,docker,terraform,postgres,git,github,vscode,replit" />
 </p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/DistilBERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HashiCorp%20Boundary-000000?style=for-the-badge&logo=hashicorp&logoColor=white"/>
+</p>
+
+**Machine Learning:** TensorFlow • Scikit-learn • CNN • RNN • DistilBERT
+
+**NLP:** TF-IDF • Text Classification • NLP Pipelines • RAG
+
+**Cybersecurity:** Threat Detection • Risk Scoring • SOC Dashboards
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Varshini1928&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Varshini1928&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -133,9 +87,7 @@ AI Engineer • Full Stack Developer • Python Developer • Research Enthusias
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshini1928&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
@@ -143,9 +95,7 @@ AI Engineer • Full Stack Developer • Python Developer • Research Enthusias
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Varshini1928&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
 </p>
 
 ---
@@ -153,9 +103,7 @@ AI Engineer • Full Stack Developer • Python Developer • Research Enthusias
 # 📊 Most Used Languages
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshini1928&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -163,47 +111,50 @@ AI Engineer • Full Stack Developer • Python Developer • Research Enthusias
 # 📅 Contribution Snake Animation
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🤖 AutoDev AI | AI Software Engineering Agent |
-| 🌐 NicheHub | Reddit-style Community Platform |
-| 📚 BookNest | Django Digital Library |
-| 🛡 ThreatSense AI | AI Cyber Security System |
-| 🩺 NeuroSparsh | Intelligent Prosthetic Research |
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🕵️ JobGuard Pro | Fake job-posting detection with an NLP pipeline, 92% accuracy, real-time predictions via Flask | DistilBERT, CNN, RNN, TF-IDF, Flask, Streamlit |
+| 🤖 Multi-Agent Research Assistant | Collaborating AI agents for literature review, summarisation and knowledge extraction | LangGraph, Vector DB, Groq, Streamlit |
+| 🧑‍🏫 AI Dev Mentor | AI coding mentor with code generation, review, debugging and a gamified learning system | Python, Streamlit, LLMs |
+| 🛡 ThreatSense-AI | AI-driven threat detection, risk scoring and SOC dashboards | Python, Machine Learning |
+| 🔐 SecureAccess | Zero-Trust, identity-aware access to a private SSH server with no public management port | HashiCorp Boundary, Terraform, Docker Compose, PostgreSQL |
 
 ---
 
-# 📈 Coding Profiles
+# 💼 Internship Experience
 
-- LeetCode
-- HackerRank
-- CodeChef
-- GeeksforGeeks
+### 🔐 Zscaler Virtual Internship | Cybersecurity
+*June 2026 – July 2026*
+- Developed **SecureAccess**, a Zero-Trust infrastructure-access solution
+- Configured identity-aware, role-based access to a private SSH server
+- Provisioned **14 Boundary resources** using Terraform with short-lived, authenticated, least-privilege access workflows
+
+### 🧠 Infosys Virtual Internship | JobGuard Pro
+*Nov 2025 – Mar 2026*
+- Designed an NLP pipeline for fraudulent job-posting detection using DistilBERT, CNN and RNN
+- Achieved **92% accuracy** with TF-IDF and ensemble ML models
+- Built a Flask web application for real-time fraud predictions
 
 ---
 
 # 📜 Certifications
 
-🏅 NPTEL Machine Learning
+🏅 [Credly Badge](https://www.credly.com/badges/bce33d5c-a2d2-40c1-a3fa-2620b96120b0/public_url)
 
-🏅 Python Full Stack
+🏅 NPTEL: Introduction to Machine Learning, Elite Certification
 
-🏅 AWS
+🏅 NASSCOM: Generative AI Fluency Certification
 
-🏅 Microsoft Fabric
+🏅 Cisco: Introduction to IoT and Digital Transformation
 
-🏅 Docker
-
-🏅 Kubernetes
+🏅 Infosys: Virtual Internship Program
 
 ---
 
@@ -214,7 +165,5 @@ AI Engineer • Full Stack Developer • Python Developer • Research Enthusias
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Varshini1928&style=for-the-badge&color=blue"/>
-
 </p>
