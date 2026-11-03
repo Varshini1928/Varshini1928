@@ -84,30 +84,6 @@ AI & ML Engineer • NLP Developer • Cybersecurity Enthusiast • Research Ent
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshini1928&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Varshini1928&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshini1928&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📅 Contribution Snake Animation
 
 <p align="center">
